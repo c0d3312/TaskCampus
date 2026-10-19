@@ -10,7 +10,6 @@ Proyecto desarrollado para el Laboratorio de Desarrollo de Aplicaciones Web util
 ## Instrucciones de Instalacion y Ejecucion
 
 1. Abrir una terminal en la raiz del proyecto e instalar las dependencias:
-   ```bash
    npm install
 2. Iniciar el servidor:
    npm run dev
